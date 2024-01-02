@@ -1,0 +1,28 @@
+{
+  "name": "cypress-practice-api-test",
+  "version": "1.0.0",
+  "description": "cypress test API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdelgador/cypress-practice-API-test.git"
+  },
+  "keywords": [
+    "cypress",
+    "API",
+    "Test",
+    "QA"
+  ],
+  "author": "Miguel Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdelgador/cypress-practice-API-test/issues"
+  },
+  "homepage": "https://github.com/Mdelgador/cypress-practice-API-test#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
